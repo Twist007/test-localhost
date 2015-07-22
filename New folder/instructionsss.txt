@@ -1,0 +1,40 @@
+Thank you so much for downloading our theme
+If you like our theme, please rate us and leave us comments. If you need help, please email us thememanicc@gmail.com , if you like our work, please donate any amount you like, it helps us to keep our works upto date..
+
+Please Follow The Instructions To Install Theme Correctly or email us we will set theme as per demo for you.
+
+Step:1
+
+Note: This theme can only be installed opencart 2.0 version, lower version 1.5.6.4 or less are not supported.
+To Avoid any errors, please install the correct version of the opencart, or email us we will install it for you
+
+Download the latest version of opencart 2.0 and install it
+
+upload  the following folders to the root of the opencart folder
+catalog,
+image,
+system,
+themeinstall
+
+Step:2 
+
+Go to setting>>edit>>template>> select theme and click on save
+
+Step:3
+
+For Images, We have used the following settings.
+Go To Admin>>System>>Setting>>Edit>>Images
+
+Set the images as following
+* Category Image Size:900x400
+* Product Image Thumb Size:500x500
+* Product Image Popup Size:700x700
+* Product Image List Size:228x228
+* Additional Product Image Size:140x140
+* Related Product Image Size:300x300
+* Compare Image Size:90x90
+* Wish List Image Size:47x47
+* Cart Image Size:47x47
+
+If you need help, please email us thememanicc@gmail.com, if you like our work, please donate any amount you like, it helps us to keep our works upto dated..
+
